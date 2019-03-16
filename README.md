@@ -1,6 +1,6 @@
 # samurai-coding-2018-ysai
 
-samuraicoding 2018 決勝に提出したAIです。
+<a href="https://samuraicoding.info/index-jp.html">samuraicoding 2018</a> 決勝に提出したAIです。
 多くの参加者がはまった、コースのルールの予期せぬ変更のため、本選では自分のAIは途中で動かなくなって敗退しましたが、ここに提出したものは、コメント以外は決勝に提出したもの、そのままです。
 
 決勝でも動くようにするには下記の変更を行えばよいと思います（試してはいませんが・・・）
