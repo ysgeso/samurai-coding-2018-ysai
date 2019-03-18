@@ -132,7 +132,7 @@ y速度の最小値を-2,最大値を 8 として枝刈を行いました。9以
 
 「決勝ルール：ルールページのゲームルールおよび決勝ルールをご確認ください（ゲームルールは予選と同じです） 」
 
-また、<a href="https://tastasgit.github.io/software-for-SamurAI-Coding-2018-19/documents/final-rule-jp.html">決勝ルールには下記のように記載されていました。</a>
+また、<a href="https://tastasgit.github.io/software-for-SamurAI-Coding-2018-19/documents/final-rule-jp.html">決勝ルール</a>には下記のように記載されていました。</a>
 
 「決勝に用いるレースコースは, コースジェネレータ によって生成する. コースジェネレータは, 予選に用いたものと同一のものを用いる (必要となったバグ修正は除く). 」
 
